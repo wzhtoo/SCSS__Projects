@@ -1,0 +1,4 @@
+.Ds_store
+*.log
+node_modules/
+package-lock.json
